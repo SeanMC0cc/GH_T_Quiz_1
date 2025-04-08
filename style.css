@@ -1,0 +1,26 @@
+body{
+    background-color: rgba(69, 141, 204, 0.636) !important;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    border: 2px solid rgb(105, 145, 227);
+    border-radius: 5px;
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(119, 215, 226);
+    border-radius: 25px;
+}
+.aside{
+    width: 30%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right;
+    font-style: italic;
+}
+#Instruction{
+    color: gray;
+}
